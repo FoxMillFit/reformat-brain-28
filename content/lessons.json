@@ -1,0 +1,2111 @@
+{
+ "lessons": [
+  {
+   "day": 1,
+   "chapter": 1,
+   "lesson": 1,
+   "code": "Ch 1-1",
+   "title": "\"I just can't change.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "What is your core mental image? Think on that some because it is driving all your actions from a subconscious level. Is your brain constantly saying \"I'm too busy,\" \"I'm old,\" \"I'm stressed,\" \"I deserve this drink/ dessert,\" \"I'm a fat ass,\" or \"I have no energy\"?"
+    },
+    {
+     "type": "p",
+     "text": "Our conscious brain acts out on what is happening at the subconscious level."
+    },
+    {
+     "type": "p",
+     "text": "One step at a time, we can replace that mental image with one of our choosing. Try this one, \"I am an adult athlete.\" Think about how that might change your entire subconscious mind."
+    },
+    {
+     "type": "p",
+     "text": "Not sure where to get started with this mindset shift?"
+    },
+    {
+     "type": "p",
+     "text": "Ask your Coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Build an image in your mind of who you want to be. See yourself enjoying all the activities you want to enjoy with the full vitality of life with all of the fitness, energy and health you deserve.",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "Fill in the blank. “I am a _____.”",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 2,
+   "chapter": 1,
+   "lesson": 2,
+   "code": "Ch 1-2",
+   "title": "Complaining. It's natural. It happens all the time. But what is it doing to your brain?",
+   "body": [
+    {
+     "type": "p",
+     "text": "Complaining is programming your mind to focus on what isn't working ... what you don't like ... what you don't want to do."
+    },
+    {
+     "type": "p",
+     "text": "Our subconscious mind doesn't seem to be able to tell the difference between reality and thought over the long run, so we have to be very careful how we program our mind."
+    },
+    {
+     "type": "p",
+     "text": "Instead you can use complaining to identify areas for potential change and improvement."
+    },
+    {
+     "type": "p",
+     "text": "Use an instance of complaining to catch yourself and replace those spoken words or thoughts with \"What can I do right now in response to this situation?\" Test this out for a week. No complaining."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Rewire your mind. \"What can I do?\""
+     ]
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "“I will spend this week replacing the complaining that pops into my mind with alternative actions that will help me improve my health, energy, fitness and vitality.” What is a complaint you know you will have this week? _____ When you hear your mind voice that complaint or those words come out of your mouth, what will you do to rewire that negative thought? _____",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 3,
+   "chapter": 1,
+   "lesson": 3,
+   "code": "Ch 1-3",
+   "title": "\"I can't _________.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "I hear it a lot. I especially hear it on my calls with new potential clients."
+    },
+    {
+     "type": "p",
+     "text": "\"I can't find the motivation to (workout or eat healthier).\""
+    },
+    {
+     "type": "p",
+     "text": "Let's focus on this week of mobility on switching those words around a bit."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "\"I can't stay accountable.\"",
+      "\"I can't workout today.\"",
+      "\"I can't eat vegetables.\"",
+      "\"I can't eat protein.\"",
+      "\"I can't just drink water.\""
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Whenever you hear your brain lash out with an \"I can't ...\", immediately stop yourself, mentally cross those words out and replace them with \"How can I.\" Try it. The more you do it, the easier it will become."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "As soon as you hear the words “I can’t” in your mind or coming out of your mouth, replace those words immediately with “How can I _____?”",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 4,
+   "chapter": 1,
+   "lesson": 4,
+   "code": "Ch 1-4",
+   "title": "\"I'm going to eat and drink whatever today, I'll workout more next week (or tomorrow).\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This mindset is so prevalent that I have said it to myself countless times."
+    },
+    {
+     "type": "p",
+     "text": "It happened so often that I began to categorize drinks and food in units of walked miles."
+    },
+    {
+     "type": "p",
+     "text": "It went something like this:"
+    },
+    {
+     "type": "p",
+     "text": "1 light beer - 12 oz, not a pint (not a regular beer and definitely not a big stout) = 1 mile I would have to walk"
+    },
+    {
+     "type": "p",
+     "text": "As you can see desserts make a simple glass of whiskey almost look like an inconsequential intake."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "1 glass of wine (5 oz not 6 ot 7 oz) = 1 mile",
+      "1 shot glass of whiskey (1.5 oz)",
+      "1 reasonable sized chocolate chip cookie = 1 mile",
+      "1 coke = 2 miles",
+      "1 small bowl of ice cream = 3 miles"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Here is the trouble: knowing the work required to offset the intake is one thing. Doing the work with a busy lifestyle is quite another thing. I'm great at getting in the extra miles when I'm being disciplined and terrible at it when I'm not disciplined."
+    },
+    {
+     "type": "p",
+     "text": "If I have 4 regular beers, that's 6 miles extra I need to put in over the week. That's an extra 1.5 to 2 hours of time."
+    },
+    {
+     "type": "p",
+     "text": "Not soooo terrible for one week, but a single day of intense over-eating can put you back 10 to 15 hours of extra work. And this is how so many of us come back from vacation, 3 to 5 pounds overweight. Very few people will be able to put in the extra time, but the body doesn't care, it's acting just like a bank account."
+    },
+    {
+     "type": "p",
+     "text": "It's happy to accept the extra deposits without the withdrawals."
+    },
+    {
+     "type": "p",
+     "text": "The change in mindset is two fold:"
+    },
+    {
+     "type": "p",
+     "text": "1. Be reasonable with yourself about your ability to make up for the extra food / drink intake. Seriously consider putting in the extra work before the event that you want to eat and drink more than your body needs. Yeah I know that isn't very likely. But if you don't have the time or desire before the event, what makes us think we will have that time and desire after the event?"
+    },
+    {
+     "type": "p",
+     "text": "Again we can think about this like a bank account. Have a big expense coming up like a future vacation? If you already have the money saved up, you can spend it without going into monetary debt while on vacation. And if you have already lost the extra body fat before a big event, you can \"afford\" to put it back on in exchange for the enjoyment you will have during the event."
+    },
+    {
+     "type": "p",
+     "text": "2. If one is to be reasonable with yourself about the time you will have to work off the food you take in, the second is to think about keeping things consistent. You can choose what you eat that week to balance out your event plans or you can simply not splurge during the event. Yes this means you sacrifice some enjoyment but you will also forgo the bloating, poor sleep and crazy swings in your blood sugars."
+    },
+    {
+     "type": "p",
+     "text": "Out on vacation and want to have a glass or two of wine with dinner? Eat a smaller breakfast and lunch. Instead of everyone ordering a separate dessert, get one dessert for the table and share it. Maybe you skip snacks each day. There are several options."
+    },
+    {
+     "type": "p",
+     "text": "Keep in mind that our brain will tell us whatever we want to hear so you can do what we want to do at the moment. Peer pressure doesn't help and I fall to that as much as anyone."
+    },
+    {
+     "type": "p",
+     "text": "If you want to get off the hamster wheel of losing 2 to 5 pounds and putting them right back on, we have to recognize when we are overeating / drinking. Then we can decide whether we want to stay consistent, balance that food intake by eating less or balance it out with extra workout. At the end of the month, when we take stock of our results, our body will show us what's up regardless of our thoughts of how well we did."
+    },
+    {
+     "type": "p",
+     "text": "Stay in touch when you are out of town so you can stay accountable. It helps."
+    },
+    {
+     "type": "p",
+     "text": "Questions on how to move forward? Ask your coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "No matter how logical it sounds to you at the moment, your brain is trying to sabotage you by putting off till tomorrow what you need to do today to keep that consistency going. As soon as you hear yourself thinking, “I can do that tomorrow,” immediately cross that statement out mentally and replace it with “I’m going to do as much as I can right now and limit the extra eating I want to do, because my health and fitness goals are much more important than the momentary satisfaction I’ll get by not staying on track.” Which foods are you likely to overeat and have thought, in the past, that you can make up that extra intake by doing extra working out or walking? _____.",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "instruction": "When you are eating one of these foods, make a mental note that you are in the danger zone. Awareness can help you make better decisions over time.",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 5,
+   "chapter": 1,
+   "lesson": 5,
+   "code": "Ch 1-5",
+   "title": "\"If I push myself, I'll get hurt.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This mindset keeps us from transforming our bodies ... and our minds."
+    },
+    {
+     "type": "p",
+     "text": "New mindset. Challenge is GOOD and strain is BAD unless you have enough experience to know when you are about to cause damage and you can confidently push to that outer limit."
+    },
+    {
+     "type": "p",
+     "text": "An example of knowing these limits happened a few days ago. Mark just pulled 500 pounds off the ground. It was a maximal effort but he is now at a point after a couple of years of lifting to know where that limit is. A couple weeks ago he got a similar weight half way up and put it back down. Knowing your body well enough to know this exact difference takes time and experience. That 500 lbs is our new gym trap bar deadlift record. Way to go Mark!"
+    },
+    {
+     "type": "p",
+     "text": "An important point to understand here is that Mark would have never been setting gym records if he didn't challenge himself every month along the way. You may hear him say one day while you are here \"I am not afraid.\" This mindset change didn't happen overnight, but it did happen gradually over time by continuing to try the new challenge."
+    },
+    {
+     "type": "p",
+     "text": "Perhaps you may be saying to yourself, \"Well Mark is kind of young, that's why he can do that kind of thing.\" Well let's look in the other direction then. Kathy did her first unassisted pull up at 70 years old. It also took her a couple of years of challenging herself to get there. And Gene went from struggling to be able to walk a mile to being able to walk a full 18 hole golf course in a little over a year. That's at least 6 miles of walking. Gene was getting close to 70 at the time and had lots of back issues when he started."
+    },
+    {
+     "type": "p",
+     "text": "You can do this. No really, you can."
+    },
+    {
+     "type": "p",
+     "text": "We want you to push at the gym or when working out at home, but carefully. And frequently you can push further and harder than you think you can. The difference may just be better form to get you there. So if you feel like you should be able to push harder but don't have the confidence to do so, ask your coach to work though what may be holding you back in the movement. Grip, back alignment, hips/ glute engagement, knee placement, mobility drills, etc."
+    },
+    {
+     "type": "p",
+     "text": "If you have only walked up to 2 miles so far, try adding a 3 mile day to your week."
+    },
+    {
+     "type": "p",
+     "text": "If you haven't done a pull up with two bands yet, try a set with two bands. You can always go back to 3 bands for the next set."
+    },
+    {
+     "type": "p",
+     "text": "If you haven't tried skipping breakfast yet, try not eating till 10 am one day."
+    },
+    {
+     "type": "p",
+     "text": "If you have never fasted for an entire day before, try fasting till 4 pm one day. (hint, eat low carb the couple of days before to make fasting a whole lot easier.) Your goal should you choose to accept it: transform your body so your healthspan = your life span."
+    },
+    {
+     "type": "p",
+     "text": "One vital step along the road to getting there is to challenge yourself regularly."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "Fill in the blank: “I will challenge myself this week by doing _____ which is currently out of my comfort zone, but I realize that over time my comfort zone will expand by regularly challenging myself. I start this week and will continue doing so until I become the person I want to be with all the energy, fitness, health and vitality that entails.”",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 6,
+   "chapter": 1,
+   "lesson": 6,
+   "code": "Ch 1-6",
+   "title": "\"I'm too old to do that.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This statement becomes a mental virus running in the background that keeps us from fully enjoying life."
+    },
+    {
+     "type": "p",
+     "text": "I was just listening to a podcast while biking where the woman was talking about how small her world had become as she had gradually put on weight and gotten further out of shape. There was a point in her mid thirties when she would get these random breathing and heart not feeling right attacks."
+    },
+    {
+     "type": "p",
+     "text": "The doctors couldn't find anything wrong with her, but she decided to take a deep assessment of herself and what had changed over the years. I of course listened closely because she's an engineer and we engineers all know you have to start any project with a good source of unfiltered data before you have any hope of understanding what results are linked to the changes you made."
+    },
+    {
+     "type": "p",
+     "text": "Mobility had gone down the tubes. This led to not moving as much --> became not getting out and doing things as much --> no more hikes to see amazing vistas which simply aren't possible walking in your local neighborhood while trying to get your steps in."
+    },
+    {
+     "type": "p",
+     "text": "So are we too old or have we simply let our mobility drop to the point where we feel decades older than we actually are?"
+    },
+    {
+     "type": "p",
+     "text": "When you have good mobility, everything else is easier. When it's easier to walk and lift, you get stronger and actually look forward to doing things like going for a hike, playing tennis or getting out on the golf course."
+    },
+    {
+     "type": "p",
+     "text": "You will stand taller and have less joint pain, which of course makes it easier to move around more, which then leads us back to enjoying an active life again."
+    },
+    {
+     "type": "p",
+     "text": "Spend a little time each day improving your personal mobility this week. The more you do it, the easier it will become for you. The easier it is, the more likely you will do it. And the more mobile you become, the younger and more energetic you will feel."
+    },
+    {
+     "type": "p",
+     "text": "Yes it works every single time. 100% of the time."
+    },
+    {
+     "type": "p",
+     "text": "What active pursuit has dropped out of your life that you used to enjoy?"
+    },
+    {
+     "type": "p",
+     "text": "Let's get you back there again."
+    },
+    {
+     "type": "p",
+     "text": "One day at a time. One step at a time. That's how you get and stay fit for life."
+    },
+    {
+     "type": "p",
+     "text": "Not sure what to do next with your mobility issues? Ask your coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "“My mobility isn’t where I want it to be at the moment. I know that I need to improve my mobility and I will do so a little bit at a time every day. Today I will begin by _____.”",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 7,
+   "chapter": 1,
+   "lesson": 7,
+   "code": "Ch 1-7",
+   "title": "\"Man, I just don't feel like going to the gym today (or get my cardio in today or fill in the blank fitness don't feel like).\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "That's a tough mindset to overcome. It plagued me for years and probably was the reason I missed countless workouts."
+    },
+    {
+     "type": "p",
+     "text": "New mindset. My feelings on the subject simply don't matter. My body needs to move, be challenged and expend energy. I will feel better, my clothes will fit better, I'll have less pain and simply put I'll live longer if I get my workout in today."
+    },
+    {
+     "type": "p",
+     "text": "The solution, and this is going to sound silly, is to simply put on your workout clothes and tell yourself you can stop working out any time you want, you just have to start working out."
+    },
+    {
+     "type": "p",
+     "text": "You wouldn't want to go listen to a magnificent orchestra playing in a crazy loud with terrible acoustics subway station. And in the same way, your brain doesn't want to workout if you are in your work clothes or dressed to go out to dinner."
+    },
+    {
+     "type": "p",
+     "text": "We can trick our brain into doing the things we want to do by creating the circumstances we normally have when we do that thing."
+    },
+    {
+     "type": "p",
+     "text": "Over time, working out becomes an unbreakable habit, but first we have to implement the system."
+    },
+    {
+     "type": "p",
+     "text": "Step one of your system is to put on your workout clothes."
+    },
+    {
+     "type": "p",
+     "text": "Try it, it really does work well."
+    },
+    {
+     "type": "p",
+     "text": "Having trouble putting together your complete workout process?"
+    },
+    {
+     "type": "p",
+     "text": "Ask your coach!"
+    },
+    {
+     "type": "p",
+     "text": "At the end of this week, you will feel so much better knowing you got all your workouts in."
+    },
+    {
+     "type": "p",
+     "text": "This typically comes up at workout time.  Feeling stuck?"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Put on your workout clothes right now. Do one exercise or walk a short distance and see what happens.",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "How much did you end up doing? More than you thought you would?",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 8,
+   "chapter": 2,
+   "lesson": 1,
+   "code": "Ch 2-1",
+   "title": "Motivation is fleeting. When you don't have it, we expect external motivation to step in.",
+   "body": [
+    {
+     "type": "p",
+     "text": "But you can't count on motivation. In fact you should count on NOT having motivation from time to time or in some cases frequently."
+    },
+    {
+     "type": "p",
+     "text": "So what can we do if motivation isn't there?"
+    },
+    {
+     "type": "p",
+     "text": "Rely on systems until your habits are as strong as iron."
+    },
+    {
+     "type": "p",
+     "text": "System: recognize you can't keep your discipline in place at all times and motivation will leave you. So you have to plan for the likely obstacles you WILL face weekly and monthly.  Plan your path of fitness just like you would any significant project where your life depends on success."
+    },
+    {
+     "type": "p",
+     "text": "Plan and schedule your workout times."
+    },
+    {
+     "type": "p",
+     "text": "Plan and schedule your food for the week."
+    },
+    {
+     "type": "p",
+     "text": "Have it delivered precooked. Cook on Sundays. Shop for the food you need. The choice is yours on how to get your food ready, but have your plan and execute it weekly."
+    },
+    {
+     "type": "p",
+     "text": "Plan to sleep for 7 to 9 hours every night.  Identify obstacles as they come your way and record them. If you can't figure out solid solutions to the obstacles, bring them to me. After 13 years, there are very few obstacles we haven't come up with effective work arounds."
+    },
+    {
+     "type": "p",
+     "text": "But I can tell you most often things come down to a lack of planning. Your recorded obstacles help you to figure out which areas of your life you need to plan out better."
+    },
+    {
+     "type": "p",
+     "text": "At the end of the day you must recognize two things along this fitness journey."
+    },
+    {
+     "type": "p",
+     "text": "You control what you eat and how you spend your time no matter how often it feels like these areas are out of your control.  Recognizing these two facts will set you free."
+    },
+    {
+     "type": "p",
+     "text": "Yes you will make mistakes along the way. That's ok, no single mistake, no matter how large can impact your long term fitness success."
+    },
+    {
+     "type": "p",
+     "text": "It's what you end up doing over time that will give you the results you will have earned. Focus on building the system that will work for you."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "How many workout and cardio sessions will you do this week? Which days and times? This is your plan. Make it happen. If something gets in the way, reschedule in the same way you would an important medical appointment or business meeting.",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 9,
+   "chapter": 2,
+   "lesson": 2,
+   "code": "Ch 2-2",
+   "title": "Is your bucket full of leaky holes?",
+   "body": [
+    {
+     "type": "p",
+     "text": "As we know, taking a systematic approach to your health and fitness works a lot better to implement lifestyle changes than trying to do the perfect diet you can't maintain or complete the perfect workout which will have you wrecked for a week while you recover."
+    },
+    {
+     "type": "p",
+     "text": "You can think of the entirety of your systematic approach to health and fitness as being represented by a bucket. And if you are trying to fill that buck with health, fitness, energy and vitality, if the holes allow for more vitality to flow out than you can ever hope to put in, then you will never feel like you are getting anywhere or making improvements."
+    },
+    {
+     "type": "p",
+     "text": "This week I would like for you to think about what holes have eroded their way into your bucket. Some are big and some are small."
+    },
+    {
+     "type": "p",
+     "text": "What systematic changes can you make to improve the ability of your bucket to capture and maintain the level of health and fitness AND energy you want to maintain?"
+    },
+    {
+     "type": "p",
+     "text": "Of course it's nearly impossible to plug all the holes in, say, just a week so this week pick one or two holes and work to patch them up."
+    },
+    {
+     "type": "p",
+     "text": "Not sure which holes to go after first? Ask your coach  and make a decision together."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "Pick a hole to your bucket vitality to plug now. Is it alcohol, sugary drinks, lack of sleep or lack of planning? Describe the hole and how you plan to fix it here _____.",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 10,
+   "chapter": 2,
+   "lesson": 3,
+   "code": "Ch 2-3",
+   "title": "\"Winning the weekend extends your life\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "When most of us start trying to get healthier, lose a bit of weight, get stronger and create more energy, we find it easier to win the regular traditional work week and blow off the weekends."
+    },
+    {
+     "type": "p",
+     "text": "It's a pretty natural process that starts with the regimentation of M-Friday school as children that continues into college and regular work life. This segmentation seems to happen even for those who don't have traditional jobs or full time in-home parents."
+    },
+    {
+     "type": "p",
+     "text": "We are simply more disciplined and regimented M-Friday."
+    },
+    {
+     "type": "p",
+     "text": "However our bodies don't know the difference between a Wed and a Saturday."
+    },
+    {
+     "type": "p",
+     "text": "If we have a great workout on Wed and a solid set of meals as well that day but sit on our butts all weekend watching tv and eating out, it's pretty easy to undo all the hard work of the previous days."
+    },
+    {
+     "type": "p",
+     "text": "This can be really difficult on your mind. You feel like you are doing exceptionally well during the week so why not blow off some steam over the weekend. Then you do your measurements at the beginning of the month and see that nothing changed or you find you aren't improving with your strength movements or have more energy."
+    },
+    {
+     "type": "p",
+     "text": "No perceived results cause us to want to quit what we are doing that is healthy for us."
+    },
+    {
+     "type": "p",
+     "text": "Let's reframe this workweek to weekend a bit. We typically think of it as M-Friday (5 days) and Sat / Sun (2 days)."
+    },
+    {
+     "type": "p",
+     "text": "But experience shows me both in my personal life and from coaching hundreds of clients that our real division is Mon- Friday breakfast time or lunchtime and then lunch or dinner time of Friday through Sunday (and perhaps later night Sunday)."
+    },
+    {
+     "type": "p",
+     "text": "That's not 5 days of discipline and 2 days of letting loose; it's much closer to 4 days and 3 days but our mental perception is that we did \"so good\" for 5 days and let loose a bit for 2 days."
+    },
+    {
+     "type": "p",
+     "text": "So if we are going to do something like beat obesity or extend the length of our health span to equal our lifespan, we will need to learn to win the weekend as well."
+    },
+    {
+     "type": "p",
+     "text": "This week is the time to examine your thoughts around your weekend activities or lack thereof."
+    },
+    {
+     "type": "p",
+     "text": "Does watching football, basketball or baseball immediately require a beer?"
+    },
+    {
+     "type": "p",
+     "text": "Do you normally get in bed by 10 PM but stay up till 1 am on Friday and Saturday nights?"
+    },
+    {
+     "type": "p",
+     "text": "Do you plan your meals during the week but just kind of let it ride all weekend?"
+    },
+    {
+     "type": "p",
+     "text": "Are you spending time with people who love to order all the food and drink on the weekends?"
+    },
+    {
+     "type": "p",
+     "text": "Does one drink turn into 3 or 4?"
+    },
+    {
+     "type": "p",
+     "text": "Track yourself for a few weekends. Take note of anything you are eating, drinking or doing that is taking you out of your healthy plan."
+    },
+    {
+     "type": "p",
+     "text": "What planning can you put in place to deal with these weekend obstacles?"
+    },
+    {
+     "type": "p",
+     "text": "Need help? Ask your coach."
+    },
+    {
+     "type": "p",
+     "text": "Healthspan = lifespan. Think about it."
+    },
+    {
+     "type": "p",
+     "text": "Decide to adopt this goal. You won't ever regret it. But on the other hand, it's entirely possible to be miserable your last 2, 5 or 10 years on this earth. Yes modern medicine may be able to keep you alive longer than our ancestors lived, but staying alive is much different than living with vitality."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "What change to your exercise plan, diet, alcohol consumption or sleep can you make to win THIS weekend?",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 11,
+   "chapter": 2,
+   "lesson": 4,
+   "code": "Ch 2-4",
+   "title": "Luke: \"Ok I will try.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This is perhaps the most sage advice that has ever graced the silver screen."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Yoda: \"No, Try not. Do or do not, there is no Try.\""
+     ]
+    },
+    {
+     "type": "p",
+     "text": "It is indeed applicable to changing our habits. It's actually pretty fascinating. You can either accomplish a result or not. Of course you can always begin again, but you either take an action or you don't. Thinking about making a change doesn't count. Being stressed about making a change and not making it, doesn't count."
+    },
+    {
+     "type": "p",
+     "text": "Several times a month I hear from some form of \"I try to x or y\" during my consultations. The result is always the same though. \"I didn't.\" Why?"
+    },
+    {
+     "type": "p",
+     "text": "We are bombarded with information about what to do and how to do it from all sides."
+    },
+    {
+     "type": "p",
+     "text": "Our well meaning friends tell us to try some new diet. The tv tells us we can eat some strange food and lose our belly fat. The internet add tells us we can unlock our fat burning furnace if we can just do this special exercise. This fitness influencer tells us all we have to do is track our calories. The tech companies tell us we can just buy this special watch. [The pharmaceutical companies tell us we can just take this once daily pill.] Our brain wants the easy answer so it constantly seeks a solution that will be easiest for us to implement. And so we don't do whatever the thing is."
+    },
+    {
+     "type": "p",
+     "text": "So if we go with the mindset of there is either do or do not, then here is my recommendation for this week:"
+    },
+    {
+     "type": "p",
+     "text": "Pick one thing you know you can change this week and build a simple system around that change. Ask your coach for help in creating that system or implementing it."
+    },
+    {
+     "type": "p",
+     "text": "Keep it simple. Simple works. Simple becomes easy. Easy gets done."
+    },
+    {
+     "type": "p",
+     "text": "Here's my recommendation. Have 2 or 3 days worth of meals prepped or cooked ahead of time. That way all you have to do is heat the food up when it's meal time. Trader Joes has lots of things like bagged lettuce that is already washed to help with quickly setting up meals. Whole Foods has both a hot food bar and a cold food bar. You can create each meal in separate containers which can go straight into your fridge."
+    },
+    {
+     "type": "p",
+     "text": "One step at a time. You can do this. Make Yoda proud :)"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "What one simple system will you implement this week? Describe it in enough detail that another person could follow your simple instructions. Simple becomes easy. Easy gets done!",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 12,
+   "chapter": 2,
+   "lesson": 5,
+   "code": "Ch 2-5",
+   "title": "\"I think I just need to be more disciplined.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This mindset may be keeping you from sustained fitness success."
+    },
+    {
+     "type": "p",
+     "text": "It took me a long time to get this through my skull and believe it: discipline will always fail. It may be hours, days or weeks from now, but it will simply stop working for you."
+    },
+    {
+     "type": "p",
+     "text": "The improved mindset is to determine AND implement a series of rules and a system that will work for you. While discipline may keep you from eating the sweets in your cabinet for two weeks, a rule that says you only eat sweets when you are out to a special dinner will keep you from eating sweets on the regular."
+    },
+    {
+     "type": "p",
+     "text": "And when you combine this rule with a shopping system that has you create a list of foods you want to bring into your home, you will have lots of food you should be eating in front of you. So even when discipline fails you, it is a trip to the store to get a sweet and now natural laziness will take over and you'll end up eating a piece of fruit to satisfy that craving."
+    },
+    {
+     "type": "p",
+     "text": "What rules do you want to systematically implement into your healthy lifestyle? Let's pick one or two and implement them this week."
+    },
+    {
+     "type": "p",
+     "text": "Not sure which rules or systems to implement?"
+    },
+    {
+     "type": "p",
+     "text": "Ask your Coach!"
+    },
+    {
+     "type": "p",
+     "text": "Remember this. Discipline will always fail. But if we follow rules and systems long enough, we can put into place hard and fast habits that support our healthy expected outcomes of fitting nicely into our clothes, having tons of energy and being able to do all the things in life we want to do even if it's going to be tough :)"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down two rules you absolutely know will help you build healthier habits this week. E.g. “I will never eat more than a handful of rice during a meal. Or I will always eat my 6 oz of protein before I load up on other parts of my meal.”",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 13,
+   "chapter": 2,
+   "lesson": 6,
+   "code": "Ch 2-6",
+   "title": "I'll finally be really good this week. I'll workout everyday and eat perfectly all week!\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "This all or nothing mindset destroys us all the time. First, it doesn't feel like an all or nothing scenario. So our brains tricks us into thinking it will be easy to finally, finally do it this time when we have failed every other week for months or even years and decades of our life. Our brain also tells us if we don't do it all, the progress we make won't be worth the effort to make any change at all."
+    },
+    {
+     "type": "p",
+     "text": "This isn't true. Making change is like growing a muscle. It takes time and you will but up against your initial limits to make it happen. Yep you have to step out of your comfort zone. But remember, your coach can make this process easier for you by helping you decide where to push and where to back off."
+    },
+    {
+     "type": "p",
+     "text": "Perhaps more insidious, our brain picks a goal it knows it can't make happen so when we fail, we can let ourselves off the hook and quit. Heck, I quit diets and exercise programs multiple times a year for over a decade ... and I still do it till this day when I rely on my discipline to get me through. Remember your discipline will always fail whether it takes a day or 2 months, we all fail if we rely on our disciple to \"be good.\" That's why we have to take the systematic approach to \"being really good this week\" instead."
+    },
+    {
+     "type": "p",
+     "text": "What do I mean by systematic instead of trying (discipline) to eat well and exercise perfectly for the week."
+    },
+    {
+     "type": "p",
+     "text": "Well let's start with the exercise since it's always easier. I could tell myself, \"go walk or run 3 days this week.\" Then we could look at the results at the end of the week. If Friday get's here and I haven't run yet, I could still tell myself that I can run Friday, Sat and Sunday. But in doing so I would have to run through my typical day off for recovery."
+    },
+    {
+     "type": "p",
+     "text": "If I'm honest with myself, I know it would be incredibly difficult to run three days in a row."
+    },
+    {
+     "type": "p",
+     "text": "So I recommend this approach instead."
+    },
+    {
+     "type": "p",
+     "text": "When should I run / walk this week? Mon, Wed, Friday? Why those days? Mostly because those days have been locked in for \"cardio\" work for years. So I can leverage a habit. But the important aspect of this is to plan the activity. Now I have something I can compare against daily and at the end of the week to hold myself accountable. For more opportunities to adhere to your plan, be specific with the time you will do your activity."
+    },
+    {
+     "type": "p",
+     "text": "Further, if I miss Friday's run, I could always use that as my recovery day and run Sunday. Starting earlier in the week allows me room to make a mistake and still reach my goal."
+    },
+    {
+     "type": "p",
+     "text": "For instance, \"I will go to the grocery store at 5:30 pm Friday evening so that I have fresh meats, fruits and veggies for the coming week and I will have them in place when I prep meals this weekend\" is a simplistic plan that allows me to connect an outcome I want (prep meals) to a specific activity I must complete to allow for that result. This is very different from \"I should cook this weekend.\" Here's the system you can follow for lifelong success:"
+    },
+    {
+     "type": "ol",
+     "items": [
+      "Set your goals.",
+      "Make your plan.",
+      "Schedule your activities relating to your plan.",
+      "Review your actions and results for the week to stay accountable.",
+      "Identify obstacles you didn't plan for.",
+      "Update your plan for next week."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "7. Get input from your coach for fine tuning your plan for improved effectiveness. There may be hiccups / deviations you will experience that seem like unique obstacles that we may have encountered with clients many times in the past. Don't struggle trying to come up with solutions, ask for help!"
+    },
+    {
+     "type": "p",
+     "text": "Sometimes planning feels too complicated with all the things going on in your life. The solution is to begin by planning one thing. We have learned through the years that if you can't envision a path to get to your goal at the planning stage, it's almost never going to happen no matter how much you want it to happen."
+    },
+    {
+     "type": "p",
+     "text": "Reaching a specific goal requires specific execution. Planning gets easier and easier over time because it is an acquired skill. It's ok to get plans wrong. Just start. It will get easier and more automatic with practice."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Spend 15 to 30 min now going over the plans and steps you have created these past two weeks. What’s the next step? What actions do you need to take tomorrow? Next Week? Next Month. Don’t worry about making this perfect or exhaustive. Just start reviewing what you have done and decide what to do next. It will get easier!",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 14,
+   "chapter": 2,
+   "lesson": 7,
+   "code": "Ch 2-7",
+   "title": "“I’m too busy to cook tonight” or “I don’t know what to cook tonight and I’m just so hungry that I need to eat now.”",
+   "body": [
+    {
+     "type": "p",
+     "text": "Is this the common problem that kills 90% of diets on the regular?"
+    },
+    {
+     "type": "p",
+     "text": "I’ve had consultation calls where the person tells me this happens to them almost nightly."
+    },
+    {
+     "type": "p",
+     "text": "There are two steps to this mindset problem."
+    },
+    {
+     "type": "p",
+     "text": "Step 1: have YOUR list of top 5 simple meals be so simple that you can immediately rattle them off even if you are famished or even hangry (so hungry you are angry)."
+    },
+    {
+     "type": "p",
+     "text": "These meals should be simple enough that you would never need to refer to a recipe AND could make them even when exhausted."
+    },
+    {
+     "type": "p",
+     "text": "Step 2: always have the ingredients readily available at home or pick a restaurant / grocery store that makes this meal in a healthy way for you."
+    },
+    {
+     "type": "p",
+     "text": "Build your top 5 meals today. Update your list over time as you come up with better options for you."
+    },
+    {
+     "type": "p",
+     "text": "Here’s my list as it may help you come up with yours. People ask me all the time what I eat. These are the meals that were invaluable to me to initially lose body fat and get me back on track when I need to after vacations, holidays and even a regular weekend that got away from me."
+    },
+    {
+     "type": "p",
+     "text": "The protein shake / smoothie. 30 g of protein seems to be the magic number for me and many others."
+    },
+    {
+     "type": "p",
+     "text": "Tuna salad and celery or bagged / already cleaned lettuce. I recommend avocado mayo. Costco sells the 7 oz can in water which drains to 6 oz of tuna."
+    },
+    {
+     "type": "p",
+     "text": "Ground beef and fried eggs over easy. Sometimes I add mixed nuts."
+    },
+    {
+     "type": "p",
+     "text": "Salmon patties (frozen from Costco) plus half a bag of frozen veggies."
+    },
+    {
+     "type": "p",
+     "text": "Frozen precooked shrimp. I add a pad of butter if I’m extra hungry. Bagged lettuce."
+    },
+    {
+     "type": "p",
+     "text": "That’s my list. It’s always in stock. When I’m shopping, it’s pretty easy to remember to get these items because I walk the same routes through the grocery stores."
+    },
+    {
+     "type": "p",
+     "text": "Even if you don’t have all 5 meals in stock at all times, I recommend having at least 3 of the meals in stock. In this way, you have some variety to choose from."
+    },
+    {
+     "type": "p",
+     "text": "Having difficulty coming up with your list? Ask your coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down your list of 5 simple meals:",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "",
+     "fields": [
+      {
+       "label": "1._____ 2._____ 3._____ 4._____ 5._____",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 15,
+   "chapter": 3,
+   "lesson": 1,
+   "code": "Ch 3-1",
+   "title": "\"Maybe I should just do Ozempic since I can't seem to lose any weight.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "Think hard before starting please."
+    },
+    {
+     "type": "p",
+     "text": "Common side effects:"
+    },
+    {
+     "type": "p",
+     "text": "Serious side effects:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Abdominal Pain",
+      "Constipation",
+      "Diarrhea",
+      "Nausea",
+      "Vomiting"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "But let's say you decide to do it anyway."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Acute gallbladder disease",
+      "Acute kidney injury",
+      "Allergic reactions",
+      "Diabetic retinopathy",
+      "Hypoglycemia (when used with insulin or sulfonylurea)",
+      "Increased risk of thyroid tumors",
+      "Pancreatitis"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Here is what I've heard from the handful of consultations I've done over the past couple of months and from clients / clients that know people using it:"
+    },
+    {
+     "type": "p",
+     "text": "The drug seems to work great for a few weeks."
+    },
+    {
+     "type": "p",
+     "text": "Afterwards? Not much in the way of changes."
+    },
+    {
+     "type": "p",
+     "text": "This leads me to the question of why take the risks for such minimal results?"
+    },
+    {
+     "type": "p",
+     "text": "First let's discuss what so many people tell me about the drugs. These drugs don't do anything to help you change your habits around eating and exercise. And that is the key to losing weight, gaining lost muscle, increasing your mobility so you can live a long healthy, strong, mobile and energetic life."
+    },
+    {
+     "type": "p",
+     "text": "In essence, you could mimic the results of the drug by simply eating significantly less food because apparently the main impact of the food is to cause you to eat less. I'm betting that we will find out in 5 years that the main reason it works for several weeks to a couple of months is because it causes people the common side effects listed above. Basically if your stomach doesn't feel good, you eat less."
+    },
+    {
+     "type": "p",
+     "text": "But what if what you are eating is less protein and fats and more simple carbs as a percentage of your food intake because your stomach doesn't feel good? Well when you stop taking the drug, your body is going to want to eat more of the simpler foods. And we all know what happens then."
+    },
+    {
+     "type": "p",
+     "text": "You will have lost muscle and as you gain weight back, it will mostly be body fat."
+    },
+    {
+     "type": "p",
+     "text": "Worse you will be left thinking there is simply no way for you to lose weight and give up perhaps for life. Why? Well after trying everything and then finally drugs that help all the celebrities, then obviously nothing will work for you so why even try, right?"
+    },
+    {
+     "type": "p",
+     "text": "So what does work?"
+    },
+    {
+     "type": "p",
+     "text": "Changing your lifestyle habits. It's the only thing that works every time and has been proven to work for decades by everyone that gets into shape and stays that way long term."
+    },
+    {
+     "type": "p",
+     "text": "Focus on building healthy eating habits, solid training habits, consistent sleep habits and be open to trying things you don't think will work with guidance from your coach."
+    },
+    {
+     "type": "p",
+     "text": "Not sure how to proceed? Ask your Coach!"
+    },
+    {
+     "type": "p",
+     "text": "Yes the urge to use drugs to solve any human related problem is strong, but only habit changes will give you the lifelong results you seek. When I realized this and wholeheartedly believed it, the process to permanently eliminate my obesity took about 6 months. It's been so much easier to stay fit than it was to get there :)"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "What problems would taking a GLP type of medication solve for you?",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "instruction": "What habits can you change or implement to give you a similar result without the drugs?",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 16,
+   "chapter": 3,
+   "lesson": 2,
+   "code": "Ch 3-2",
+   "title": "Count your wins.",
+   "body": [
+    {
+     "type": "p",
+     "text": "You may have had one hectic day, week, month or year.  Every night before bed count your wins. Write them down in a simple notebook or in the notes section of your phone."
+    },
+    {
+     "type": "p",
+     "text": "This process will literally rewire your brain for healthier habits."
+    },
+    {
+     "type": "p",
+     "text": "You wanted to get in a 30 min walk today, but only walked 10 min, write down “I completed 10 min of walking.” You wanted to eat super healthy today but all you succeeded in doing was tossing out the superbowl snack leftovers, write down “tossed superbowl leftovers.” Were you able to practice deep breathing to allow your body and mind to relax? Write down “completed deep breathing exercise.” Feeling weird about writing down silly little wins? Ask your coach to help you work through a wins capture session."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down 3 to 5 wins from today and/or yesterday:",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      },
+      {
+       "label": "Entry 5",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 17,
+   "chapter": 3,
+   "lesson": 3,
+   "code": "Ch 3-3",
+   "title": "Making smaller changes to your habits usually gets you to your goal faster than changing everything at once.",
+   "body": [
+    {
+     "type": "p",
+     "text": "This is counter intuitive."
+    },
+    {
+     "type": "p",
+     "text": "Wouldn't you get to your goal faster if you made all the changes you needed to make on day one instead of making a dozen changes spaced out over 12 weeks?"
+    },
+    {
+     "type": "p",
+     "text": "In a perfect world, yes. But we don't live in a perfect world and we have to undo our existing habits. This process takes time."
+    },
+    {
+     "type": "p",
+     "text": "Yes you could probably eat perfectly for a few days. And yes you could probably do perfect workouts for a few days or a few weeks in a row but then something would happen."
+    },
+    {
+     "type": "p",
+     "text": "Something would get in the way of your progress and then you would stop and your habits would take over. I hear this all the time every week as I talk to new potential clients. \"How many times have you tried to get back into shape or lose those 30 lbs?\" Answer \"Lots of times. I always start great. Then after a couple of weeks I start to give up.\" Usually the problem is trying to do everything all at once. Our brains like to see progress. So we feel like we have to crush it right out of the gate when we start a new diet or exercise program. But in trying to do everything at once, we end up failing most of the time."
+    },
+    {
+     "type": "p",
+     "text": "And we fail because we think our discipline will get us through this time if we just try harder. But discipline will never defeat a hardened habit. And so we need to attack our habits one or two at a time. Begin this process with something we can be successful with. Then add the next one."
+    },
+    {
+     "type": "p",
+     "text": "Right now I am training for a 5 k race that I will run toward in about six weeks. The habit I am working on this week is running 3 of the 7 days."
+    },
+    {
+     "type": "p",
+     "text": "Which habit or habits do you want to work on this week?"
+    },
+    {
+     "type": "p",
+     "text": "Oldies but goodies are:"
+    },
+    {
+     "type": "ol",
+     "items": [
+      "Planning your workout time slots.",
+      "Planning when you will go to the grocery store.",
+      "Creating a shopping list and sticking to it.",
+      "Selecting a couple of times each week to prep / cook food."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Let your coach know which habits you are working on this week and you can get the help you need to take your next steps."
+    },
+    {
+     "type": "p",
+     "text": "Need help picking the next habits to focus on? Ask your coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down two to five small habit changes you want to work on this week:",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      },
+      {
+       "label": "Entry 5",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 18,
+   "chapter": 3,
+   "lesson": 4,
+   "code": "Ch 3-4",
+   "title": "Sleep.",
+   "body": [
+    {
+     "type": "p",
+     "text": "Some days you are simply more hungry than you should be. There doesn't seem to be any reason for it."
+    },
+    {
+     "type": "p",
+     "text": "If your water intake is on point and you are getting plenty of protein, examine your sleep for the past few nights."
+    },
+    {
+     "type": "p",
+     "text": "As adults we frequently abuse our sleep like it was a bank account with unlimited funds."
+    },
+    {
+     "type": "p",
+     "text": "In working on your mindset each week, it is just as important to focus on getting solid sleep each night as it is to take in nutritious food and get your workouts in."
+    },
+    {
+     "type": "p",
+     "text": "The mindset focus: sleep is the foundation for your next day."
+    },
+    {
+     "type": "p",
+     "text": "Lack of sleep leads to no energy and eventually sickness. Nobody has time to be sick. Make sure you get to sleep 7 to 9 hours on average every single night."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "What are the typical things that keep you from getting to bed at a time that will allow you to get 8 hours of sleep?",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "instruction": "What time will you go to bed this week?",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "What time do you need to set an alarm that will allow you to do all the things before you get into bed so that you can make your bed time goal?",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "What will you do if you get to bed late one night?",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 19,
+   "chapter": 3,
+   "lesson": 5,
+   "code": "Ch 3-5",
+   "title": "Proactively seek out obstacles you will encounter while getting into and staying fit.",
+   "body": [
+    {
+     "type": "p",
+     "text": "As you continue your journey of helping your health span = your life span, it is important to seek out any obstacle that gets in your way and decide what to do about or with it."
+    },
+    {
+     "type": "p",
+     "text": "The big trouble here is that most obstacles are invisible to us most of the time. However when we start actively looking for them, they can become visible, tangible and surmountable."
+    },
+    {
+     "type": "p",
+     "text": "Here are a few examples:"
+    },
+    {
+     "type": "p",
+     "text": "I wasn't able to walk this week because it was too cold/hot."
+    },
+    {
+     "type": "p",
+     "text": "I wasn't able to eat an on program lunch this week because we had an inner office conference and they brought in pizza and Subway every day."
+    },
+    {
+     "type": "p",
+     "text": "I wasn't able to workout yesterday because my shoulder hurt."
+    },
+    {
+     "type": "p",
+     "text": "At first glance, these all seem like reasonable reasons to fall off the wagon. But if you look at them again and open your mind to alternative solutions you find that each case simply means a different decision can be made to stay the course of helping your health span to equal your life span."
+    },
+    {
+     "type": "p",
+     "text": "Form the habit of writing obstacles like this down. Sometimes you will come up with alternative solutions right then. Sometimes coming back to the problem a day or two later will allow your mind to find solutions when the issue isn't urgent. And other times you will simply draw a blank. That's when you need to ask your coach for some help."
+    },
+    {
+     "type": "p",
+     "text": "Repeat after me, \"I want my health span to equal my lifespan.\" Let's do it."
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down 3 to 5 obstacles you have encountered before or are likely to encounter sometime over the next month:",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      },
+      {
+       "label": "Entry 5",
+       "type": "text"
+      },
+      {
+       "label": "Entry 6",
+       "type": "text"
+      },
+      {
+       "label": "Entry 7",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 20,
+   "chapter": 3,
+   "lesson": 6,
+   "code": "Ch 3-6",
+   "title": "Why is The Fitness Longevity Framework important for your mindset?",
+   "body": [
+    {
+     "type": "p",
+     "text": "First let's talk about the framework."
+    },
+    {
+     "type": "ol",
+     "items": [
+      "Get and stay mobile",
+      "Improve your cardiovascular capability",
+      "Build the strength to allow your body to engage in any physical activity you want to enjoy",
+      "Create the ability to move fast without fainting, tearing a muscle, destroying a joint or unduly stressing your heart."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "What are longevity characteristics?"
+    },
+    {
+     "type": "p",
+     "text": "Lower than average: blood pressure, resting heart rate and body fat percentage Higher than average: strength, mobility, muscle mass, lung capacity, balance, bone density and mental acuity 90 year olds come in two varieties. First it's important to understand that getting to 90 doesn't happen for everyone. Average lifespan ends for most people in their late 70's. If we want to get into that 90+ group, we probably need to start planning to get there as soon as possible."
+    },
+    {
+     "type": "p",
+     "text": "The first group of 90 year olds seem to be \"simply existing\" as one of my clients put it. Their monthly lives revolve around lots of doctors appointments, living on the second floor is out of reach because of the stairs and daily life revolves around taking a shoebox full of meds."
+    },
+    {
+     "type": "p",
+     "text": "The second group of 90 year olds hear comments like, \"wow!, you're 90. You look great.\" They are able to live independently, drive themselves over multiple hour distances and are described as spry."
+    },
+    {
+     "type": "p",
+     "text": "We need to rewire our brains to replace \"I can't\" or \"I'm too old\" statements with \"what do I need to do today related to my fitness and eating habits?\" so that you can develop a longevity mindset which will allow you to live a rich and vibrant life into your 90's and beyond."
+    },
+    {
+     "type": "p",
+     "text": "Your goal, should you choose to accept it: create a set of habits which will allow you to have a health span equal to your lifespan."
+    },
+    {
+     "type": "p",
+     "text": "Feeling stuck? Ask your coach!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "Write down 2 or 3 habits you know you personally will need to live the life you want to be able to live in your 90’s:",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      },
+      {
+       "label": "Entry 5",
+       "type": "text"
+      },
+      {
+       "label": "Entry 6",
+       "type": "text"
+      },
+      {
+       "label": "Entry 7",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 21,
+   "chapter": 3,
+   "lesson": 7,
+   "code": "Ch 3-7",
+   "title": "\"A journey of 1000 miles begins with a single step.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "We recently discussed not allowing yourself to become bogged down with having to remember too many things that you have to do so you can be effective with your long term fitness."
+    },
+    {
+     "type": "p",
+     "text": "This week is all about starting, taking that initial decision or that first step."
+    },
+    {
+     "type": "p",
+     "text": "Our eventual goal is to have life long training and eating habits. But how do we get there on a daily basis? How do we build a foundational habit that almost forces us to be fit and healthy?"
+    },
+    {
+     "type": "p",
+     "text": "As adults, it takes between several weeks and several months to build a strong habit to the point where we feel odd if we don't do the habit."
+    },
+    {
+     "type": "p",
+     "text": "One of the first things to realize is that we need to replace existing habits with the new ones we want to rule how we spend our time."
+    },
+    {
+     "type": "p",
+     "text": "Let's use forming the habit of walking as an example. I frequently come back to walking as an example because in many ways it is THE foundation of fitness. We walk every day, but we don't always take a walk. Walking could be replaced with riding a bike, swimming, running, etc. But I'll just say walking to represent your daily cardio movement habit."
+    },
+    {
+     "type": "p",
+     "text": "Walking helps us to lower our blood pressure and reduce our resting heart rate. It helps to burn up excess food intake. It helps to maintain our mobility AND eventually it feels so good to get out for a walk that we look forward to that time daily."
+    },
+    {
+     "type": "p",
+     "text": "So we can agree it's good for us and we should make it a habit. But how?"
+    },
+    {
+     "type": "p",
+     "text": "Just start walking. Seriously, that's it. Open your front door and walk out. If you really don't want to go that day, just tell yourself you can turn around at any point."
+    },
+    {
+     "type": "p",
+     "text": "\"But if I don't go for at least 30 min, it's not worth it.\" That is a lie we tell ourselves so we can get out of doing the things we need to do. Every minute you are walking is helpful. Every single minute."
+    },
+    {
+     "type": "p",
+     "text": "But what if you are having trouble even convincing yourself to go for a walk at all?"
+    },
+    {
+     "type": "p",
+     "text": "Here's where the quote above really comes in handy. All you have to do is put on the shoes you like to walk in. That's it. That's the first step of a 1000 mile journey. Just put on your shoes."
+    },
+    {
+     "type": "p",
+     "text": "Maybe you don't actually go for a walk. The next day comes around. Put on your walking shoes again. Step out the door. You can turn around at any time you like."
+    },
+    {
+     "type": "p",
+     "text": "The key in establishing any new habit is to take the first step even if you don't complete the full activity you want to establish eventually. Think of the process as establishing micro habits."
+    },
+    {
+     "type": "p",
+     "text": "So if your goal is to set a 30 min daily walk habit, you might end up with these micro habits to get there:"
+    },
+    {
+     "type": "ol",
+     "items": [
+      "Put on your shoes daily whether you walk or not.",
+      "Step out the door and turn around whenever you like.",
+      "Match your walk with another activity like listening to a podcast or novel or making a call while you walk.",
+      "Taking two or three shorter walks to add up to 30 min over the course of the day. Perhaps 10 min in the morning, 10 min as soon as you finish eating lunch and 10 min before dinner.",
+      "Picking 3 days a week where you walk 30 min straight.",
+      "Looking forward to 30 min a day of me time."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Having trouble getting daily activity in?"
+    },
+    {
+     "type": "p",
+     "text": "Ask your Coach for guidance!"
+    }
+   ],
+   "ta": [
+    {
+     "instruction": "What micro habits should you implement to make your overall bigger habits more automatically achievable?",
+     "fields": [
+      {
+       "label": "",
+       "type": "textarea"
+      }
+     ]
+    },
+    {
+     "instruction": "List 3 to 5 micro habits here:",
+     "fields": [
+      {
+       "label": "Entry 1",
+       "type": "text"
+      },
+      {
+       "label": "Entry 2",
+       "type": "text"
+      },
+      {
+       "label": "Entry 3",
+       "type": "text"
+      },
+      {
+       "label": "Entry 4",
+       "type": "text"
+      },
+      {
+       "label": "Entry 5",
+       "type": "text"
+      },
+      {
+       "label": "Entry 6",
+       "type": "text"
+      },
+      {
+       "label": "Entry 7",
+       "type": "text"
+      },
+      {
+       "label": "Entry 8",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "day": 22,
+   "chapter": 4,
+   "lesson": 1,
+   "code": "Ch 4-1",
+   "title": "Several times a month I speak with a potential new client who wants to lose belly fat or their gut. In essence these people want to focus on losing THAT fat. They aren't as concerned with losing the rest of their excess body fat. They just want that gut gone.",
+   "body": [
+    {
+     "type": "p",
+     "text": "I understand this desire. Who doesn't want a flat stomach?"
+    },
+    {
+     "type": "p",
+     "text": "But I have to explain that we can't spot weight loss. We can't target the belly for removal of fat."
+    },
+    {
+     "type": "p",
+     "text": "Unfortunately we don't have any control of where our body decides to remove the fat we are burning off. However if we are doing the things that cause our body to lose more body fat than it can store over time, it will eventually use up the body fat we store in our belly region which will give us that flat belly we seek."
+    },
+    {
+     "type": "p",
+     "text": "However many of us still believe we can spot target body fat by focusing on stomach or core exercises long into our training program. It's a belief that has been drilled into us over decades of marketing and myths shared person to person."
+    },
+    {
+     "type": "p",
+     "text": "Let's think of it logically. Working out muscles burns calories. In general the more calories we are burning, the more body fat we are burning off. If we want to lose the maximum amount of body fat, would we want to focus on working a small group of muscles such as the ones in our stomach or the major muscles located in our legs, butt, chest and arms?"
+    },
+    {
+     "type": "p",
+     "text": "That's right we would want to focus on hitting as much muscle mass as possible with our workouts and not focus more time on smaller muscle groups."
+    },
+    {
+     "type": "p",
+     "text": "So you could literally deadlift and squat all the time and never work your stomach out directly and be more likely to remove belly fat than if you focused exclusively on stomach exercises."
+    },
+    {
+     "type": "p",
+     "text": "But of course if you want to maximize your stomach fat loss and get that flatter stomach, you need to be consistent with your workouts AND your diet over time."
+    },
+    {
+     "type": "p",
+     "text": "This is the most important mindset. We need consistency over time."
+    },
+    {
+     "type": "p",
+     "text": "Not sure what steps you should take right now to build that consistency?"
+    },
+    {
+     "type": "p",
+     "text": "Ask your Coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 23,
+   "chapter": 4,
+   "lesson": 2,
+   "code": "Ch 4-2",
+   "title": "What would a champion do?",
+   "body": [
+    {
+     "type": "p",
+     "text": "It's a guiding principle that can help you make better choices and better decisions."
+    },
+    {
+     "type": "p",
+     "text": "Life gets busy. Making decisions can drain your energy."
+    },
+    {
+     "type": "p",
+     "text": "Sometimes it's simplest to do what someone else would do. And if you are going to do what someone else would do, why not choose to do what a champion would do."
+    },
+    {
+     "type": "p",
+     "text": "Sometimes champions seem to be machines or inhuman in their ability to achieve and get things done. But all champions really do is follow systems, practice, practice and practice some more."
+    },
+    {
+     "type": "p",
+     "text": "Your champion suggests following a simple system for lifelong fitness."
+    },
+    {
+     "type": "p",
+     "text": "Do strength training 3 days a week. Get 30 to 60 min of cardio or related activity in 3 days a week. Have one recovery day per week."
+    },
+    {
+     "type": "p",
+     "text": "Hold yourself accountable meal by meal. Start with your protein source. If your protein source doesn't have fat, add some fat. Then add veggies and or a bit of fruit. Fill your 8.5 inch plate. Repeat."
+    },
+    {
+     "type": "p",
+     "text": "Watch your health and fitness gradually improve."
+    },
+    {
+     "type": "p",
+     "text": "You are now winning the game of life."
+    },
+    {
+     "type": "p",
+     "text": "Not sure what a champion would do? Ask your coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 24,
+   "chapter": 4,
+   "lesson": 3,
+   "code": "Ch 4-3",
+   "title": "Why Build Strength?",
+   "body": [
+    {
+     "type": "p",
+     "text": "Strength is the foundation of fitness. This is true physically and mentally."
+    },
+    {
+     "type": "p",
+     "text": "The process of building strength creates lifelong healthy habits and rewires your brain to be able to endure stress and strain while still performing at the level we need to so we can support our families and get all the things done in life that we need to do."
+    },
+    {
+     "type": "p",
+     "text": "The number of comments I've had from clients over the past 13 years about the benefits of building strength is uncountable. Strength touches all aspects of our lives, our confidence and our energy levels."
+    },
+    {
+     "type": "p",
+     "text": "Building strength helps us to improve our mobility (makes us feel and act younger while making sure we don't have to rely on others to do basic things), it allows us to keep our independence (just ask those living in nursing homes what it's like to lose your independence) and it builds dense muscle fibers which become an additional sugar/carb storage capacity. Why is that important? Well we can't always eat perfectly, but if we have more muscle, we have a place other than fat to store small amounts of extra carbs we take in during the week."
+    },
+    {
+     "type": "p",
+     "text": "And building strength allows us to see progress in a way that isn't scale related or measurement related. It's a positive reinforcement that lets us know we are still improving even if the scale doesn't show it yet. That keeps us going long enough to build the habits which will over time give us the health benefits we really need like lowering our blood pressure or our resting heart rate."
+    },
+    {
+     "type": "p",
+     "text": "The journey back to fitness isn't a short one of just a few weeks, but it is worth it no matter how long it takes. You are literally adding years and decades of better living to your life."
+    },
+    {
+     "type": "p",
+     "text": "Questions about how strength can actually help you personally? Ask your coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 25,
+   "chapter": 4,
+   "lesson": 4,
+   "code": "Ch 4-4",
+   "title": "The moment that changed it all for me and allowed me to obliterate my obesity forever: \"I am responsible for whatever goes in my mouth at all times.\" This isn't just true when I am not busy or in a good mood or when \"circumstances are out of my control.\" This statement was true at all times.",
+   "body": [
+    {
+     "type": "p",
+     "text": "Our body doesn't know or care that we just got hit with a major deadline, a massive bout of anxiety, a social situation that makes us feel obligated to eat and drink things we know we shouldn't or that we are famished. The only thing that matters to the body is the amount of energy taken in compared to the amount of energy used over a given period of time such as a day, week or month."
+    },
+    {
+     "type": "p",
+     "text": "Once I realized this, I came to the understanding that my weight and even my health and how I felt were all majorly under my control. At first this knowledge was daunting ... but then it felt empowering."
+    },
+    {
+     "type": "p",
+     "text": "If I asked my body to change by giving it solid workouts, refueled it with the appropriate amount of mostly unprocessed foods, allowed myself to be held accountable and supported the entire process with solid sleep and I did all this consistently my body magically got healthier, shed lots of body fat, built a significant amount of muscle, improved all my medical scores like blood pressure and resting heart rate and rewarded me with lots more energy,."
+    },
+    {
+     "type": "p",
+     "text": "This truth hasn't deviated one bit over the last 18 years no matter how many times I'ved tried to find a different way. Our bodies react to what we do and eat no matter what."
+    },
+    {
+     "type": "p",
+     "text": "Repeat after me:"
+    },
+    {
+     "type": "p",
+     "text": "\"I am responsible for whatever goes in my mouth at all times. Food and water is the method by which I refuel my body and give it the building blocks to create strong muscle, bone and connective tissue."
+    },
+    {
+     "type": "p",
+     "text": "I am responsible for my workouts each week. My body needs some level of working out no matter what. In fact, and quite weirdly, the days I feel most mentally exhausted are the days I need to workout the most as the body hasn't actually done much physical activity. However this workout can be very light or focused on mobility. 10 min of working out beats no minutes every single time. If I haven't smiled today, I need to workout so I can enjoy a smile."
+    },
+    {
+     "type": "p",
+     "text": "I am responsible for the amount of sleep I get. Sleep allows me to recover and build my energy battery back to full."
+    },
+    {
+     "type": "p",
+     "text": "I will allow myself to be held accountable so I can understand the obstacles I face better and be open to implementing tactics, strategies and systems to overcome and work through these obstacles so I can get into and stay in great shape.\" If you find yourself not being able to believe this statement, bring up your reservations to your coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 26,
+   "chapter": 4,
+   "lesson": 5,
+   "code": "Ch 4-5",
+   "title": "Begin with the end in mind",
+   "body": [
+    {
+     "type": "p",
+     "text": "Envision your future outcome ... your future state of living. Do you want to live with lots of energy, easily fit into your favorite clothes, move with ease (less joint pain) and be able to participate in all of life's various activities?"
+    },
+    {
+     "type": "p",
+     "text": "See yourself in that exact future state for a few minutes daily. How are you feeling as you take a walk? Throw on that shirt and smile as it settles around your shoulders and drops down to your waist. Button those pants without having to suck in and expel all your air at the same time. Walk down a flight of stairs without pain. Experience this future state in your mind as if you are there right now."
+    },
+    {
+     "type": "p",
+     "text": "You might say the basic human state is to try something and quit. There is great likelihood that this mentality kept humanity alive long enough to create civilization."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "\"Begin with the end in Mind.\""
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Things like playing with cobras = not a good idea."
+    },
+    {
+     "type": "p",
+     "text": "As a kid, you may remember parents saying \"he'll only try that once.\" All these decades later I still remember the feeling of electricity going up my arm. Perhaps playing with the outlet wasn't a good idea. But yeah I never did that again."
+    },
+    {
+     "type": "p",
+     "text": "The difficulty with getting back in shape and staying that way is that initially the process is quite uncomfortable. Eating less processed foods, training consistently and paying attention to things like sleeping a good 7 to 8 hours can be a real drag."
+    },
+    {
+     "type": "p",
+     "text": "So the brain creates a scenario where we can just quit. Pain = bad = quit. Change = bad = quit."
+    },
+    {
+     "type": "p",
+     "text": "This is why we always begin with goals and motivations to reach those goals. These goals are not only short term goals, but long term I want my health span to equal my lifespan kind of goals."
+    },
+    {
+     "type": "p",
+     "text": "We literally begin this fitness journey with the end in mind."
+    },
+    {
+     "type": "p",
+     "text": "However we can and do forget these goals when presented with difficulty, obstacles and frustration."
+    },
+    {
+     "type": "p",
+     "text": "It's time to remind yourself why you want to live a long healthy life where you can do all the things you want to do without great pain or feeling like you are constantly out of breath and wanting a nap."
+    },
+    {
+     "type": "p",
+     "text": "What is the end you want to keep in mind as you begin this week?"
+    },
+    {
+     "type": "p",
+     "text": "I find myself thinking about wanting to be able to run my Turkey Trots (5K races) for the rest of my life. It’s a really fun way to start Thanksgiving. Running is much more difficult than it was a few years ago for me now that I have arthritis in my big toe, but I don't want to lose the ability to run so I persist with my training. The reward of finishing seems pretty far away some days, but I persist because I know how good that feeling of finishing will feel in a couple of weeks."
+    },
+    {
+     "type": "p",
+     "text": "If you are having trouble focusing on your future vision, talk to your coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 27,
+   "chapter": 4,
+   "lesson": 6,
+   "code": "Ch 4-6",
+   "title": "\"Focus on your progress.\"",
+   "body": [
+    {
+     "type": "p",
+     "text": "Why do we as humans quit?"
+    },
+    {
+     "type": "p",
+     "text": "Quit working out. Quit eating healthy. Quit going to bed at a reasonable time. Quit anything?"
+    },
+    {
+     "type": "p",
+     "text": "I've asked this question and variations of it to hundreds of people over the past 14 years. Most of the answers seem to go something like this. \"I wasn't seeing results or it didn't seem to matter what I did or ate.\" From a mindset perspective these answers can go under the \"all or nothing\" category."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "no"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "\"I stopped eating chocolate for an entire week. It really sucked. I'm not even down 4 pounds. Nothing works for me.\" You can substitute soda, sugar or any other of the things people will give up for a short period of time. The mindset is the same. I did this thing and I expected this immediate big result."
+    },
+    {
+     "type": "p",
+     "text": "Why? Well we are advertised to all the time about how someone can lose 15+ pounds in a month. We have met people that for instance gave  up soda and their clothes magically started to fall off of them. These situations have a way of setting our internal expectations."
+    },
+    {
+     "type": "p",
+     "text": "Here is some real data. I've coached well over 500 people since 2009. Of those people I have had exactly one person lose 20 pounds in a month. This guy was extremely bloated and his body reacted poorly to some of the foods he enjoyed eating. So a lot of that weight loss was water weight. And he didn't drop even close to 10 pounds in month two."
+    },
+    {
+     "type": "p",
+     "text": "It's realistic to remove between 1/2\" to 1.5\" of belly fat in a single month with consistent changes to your diet and consistent workouts plus recovery. Depending on how you personally carry body fat, this might come off your chest, or hips instead."
+    },
+    {
+     "type": "p",
+     "text": "Back to what you should focus on instead of some massive result in the first two weeks or you quit trying to make the change you want to see."
+    },
+    {
+     "type": "p",
+     "text": "Focus on your progress. Focus on what has been changing for you."
+    },
+    {
+     "type": "p",
+     "text": "Did your blood pressure improve?"
+    },
+    {
+     "type": "p",
+     "text": "Did your resting heart rate improve?"
+    },
+    {
+     "type": "p",
+     "text": "Are you able to walk further?"
+    },
+    {
+     "type": "p",
+     "text": "If you only worked out twice last month but you already worked out twice this week, that is progress."
+    },
+    {
+     "type": "p",
+     "text": "Did you bring healthier food into your home?"
+    },
+    {
+     "type": "p",
+     "text": "Did you get rid of some foods that shouldn't be in your home?"
+    },
+    {
+     "type": "p",
+     "text": "Did you eat out one less time this month?"
+    },
+    {
+     "type": "p",
+     "text": "Have you become more comfortable going to the gym?"
+    },
+    {
+     "type": "p",
+     "text": "Did you do a workout at home even though you had a cold?"
+    },
+    {
+     "type": "p",
+     "text": "Take a look at all the things you are doing and take note of where you are making progress."
+    },
+    {
+     "type": "p",
+     "text": "Remind yourself daily what you have done to make improvements."
+    },
+    {
+     "type": "p",
+     "text": "Tiny improvements over time will add up to major results."
+    },
+    {
+     "type": "p",
+     "text": "Your goal should you choose to accept it is to work towards having your health span = your life span."
+    },
+    {
+     "type": "p",
+     "text": "It really won't matter in the long run if you don't see a major result this week. But if you quit working towards developing the habits necessary to get to and stay in good health, your health span will not equal your life span."
+    },
+    {
+     "type": "p",
+     "text": "What can you do this week to improve your health span?"
+    },
+    {
+     "type": "p",
+     "text": "Drawing a blank? Ask your coach!"
+    }
+   ],
+   "ta": []
+  },
+  {
+   "day": 28,
+   "chapter": 4,
+   "lesson": 7,
+   "code": "Ch 4-7",
+   "title": "Should you set a goal?",
+   "body": [
+    {
+     "type": "p",
+     "text": "What are you training towards?"
+    },
+    {
+     "type": "p",
+     "text": "A few years ago before I was diagnosed with arthritis in my big toe, I was able to run sub 8 min miles. Not being able to do what was once kind of easy was a big slap in the face. I had to reset my goals. My goal last year was to be able to run my turkey trot 5 k in under 30 min AND be able to run the full race without walking. That's a full 6 minutes faster than last year's run / walk 5k. It was also more running than the previous year's turkey trot run / walk. That's a 3 year journey from walking a mile in great pain to running a 5 k in under 30 min. Whew! Glad that foundation work is complete."
+    },
+    {
+     "type": "p",
+     "text": "While I never thought running a 5k in under 30 min would be a problem, arthritis made it something of a major obstacle to overcome these past few years. I had to change everything from my training regime to the type of shoes I wear to run and walk in during my training."
+    },
+    {
+     "type": "p",
+     "text": "To say the least, this process has been frustrating. But completing the race made it all worth it. Unfortunately anytime I over do it, my toe kills me for days afterwards. So I still need to be careful as I approach this year's training."
+    },
+    {
+     "type": "p",
+     "text": "My new goal: 1 mile in 7:59. My new 5K goal for Thanksgiving is to break 28 min. This is going to happen. I will test my mile time at the end of March. Stay tuned for that update."
+    },
+    {
+     "type": "p",
+     "text": "How will I get there? I'm 50 now, won't that make it even harder? Examination of the last several months of training shows me a few things."
+    },
+    {
+     "type": "ol",
+     "items": [
+      "I can't consistently run two days in a row. Solution, I'll be doing more biking and shadow boxing this year."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "2. I've got a small to medium frame but when I couldn't walk and run a few years ago I shifted my training to get stronger and bigger. This means I'm carrying a good 15 lbs more than I was the last time I could easily run sub 8 min miles. Ugh. Solution: remove 15 pounds but keep the strong muscle haha."
+    },
+    {
+     "type": "p",
+     "text": "Since each additional pound of body weight lands with 4 to 5 lbs of additional force on my foot (read arthritic toe), losing 10 or 15 pounds translates to up to 75 less pounds of force on my toe for thousands of reps (steps / foot falls). I might, just maybe be able to train with back-to-back running days again after losing the weight. Who knows, but I think it's worth a shot to see what happens."
+    },
+    {
+     "type": "p",
+     "text": "My foot is throbbing as I write this so I'm feeling pretty motivated at the moment."
+    },
+    {
+     "type": "p",
+     "text": "3. Alcohol formed a solid part of holiday consumption from Thanksgiving on. I've noticed that my arthritis is inflamed by taking in alcohol. Ugh ugh. Solution: a 2 week alcohol reset. Heck a reduction in alcohol intake over the next few months is only going to make weight loss easier. So win win win."
+    },
+    {
+     "type": "p",
+     "text": "Yep it's not a super easy fix to get to my goal of running a sub 8 min mile again. In the old days I could just run more, add in speed work and magically the results would happen. However now it will take a multifaceted approach to get there. That's just reality."
+    },
+    {
+     "type": "p",
+     "text": "So why is this important to me? Why take the extra effort? Simply this. I miss the effortless energy that I have when I'm able to run sub 8 min miles."
+    },
+    {
+     "type": "p",
+     "text": "Why set a goal? It gives you direction. When you know where you are going, it's easier to get there. AND you can figure out why you want to get there. I want to run the sub 8 min mile. That's cool. It's great to have an accomplishment like that but the real driver is feeling like I'm 30 years old again every single day. That's one heck of a reward."
+    },
+    {
+     "type": "p",
+     "text": "What are your goals for this year? What are you training towards? What will those goals do for you? Why is this important to you?"
+    },
+    {
+     "type": "p",
+     "text": "Do you need help setting or refining your fitness goals? Ask your coach!"
+    },
+    {
+     "type": "p",
+     "text": "Longevity will be built one step, one goal at a time. Are you with me?"
+    },
+    {
+     "type": "p",
+     "text": "I can't stress this enough. I've never had a client tell me they wish they hadn't gotten in good shape. But I have heard hundreds of times I wish I had never allowed myself to get so out of shape."
+    },
+    {
+     "type": "p",
+     "text": "The work you are doing now will reward you for the rest of your life."
+    },
+    {
+     "type": "p",
+     "text": "To your health!"
+    },
+    {
+     "type": "p",
+     "text": "Let's Do this."
+    }
+   ],
+   "ta": []
+  }
+ ]
+}
