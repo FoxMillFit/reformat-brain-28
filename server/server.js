@@ -172,6 +172,13 @@ app.delete('/api/lessons/:day/complete', requireAuth, (req, res) => {
 });
 
 // ---------- coach ----------
+app.delete('/api/coach/users/:id', requireCoach, (req, res) => {
+  if (Number(req.params.id) === req.user.id) return res.status(400).json({ error: 'You cannot delete your own account' });
+  const r = db.prepare('DELETE FROM users WHERE id = ?').run(req.params.id);
+  if (!r.changes) return res.status(404).json({ error: 'User not found' });
+  res.json({ ok: true });
+});
+
 app.get('/api/coach/users', requireCoach, (req, res) => {
   const users = db.prepare(`
     SELECT u.id, u.name, u.email, u.created_at,
