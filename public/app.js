@@ -290,6 +290,7 @@ async function vLesson(day) {
 async function vCoach() {
   view.innerHTML = '<div class="card"><p class="muted">Loading…</p></div>';
   const d = await GET('/api/coach/users');
+  const t = await GET('/api/coach/trainers');
   view.innerHTML = `
     <div class="card">
       <div class="row" style="justify-content:space-between">
@@ -317,11 +318,34 @@ async function vCoach() {
             <td>${new Date(u.created_at * 1000).toLocaleDateString()}</td>
             <td><span class="pill">${u.completed_count}/${d.total_lessons}</span></td>
             <td>${u.answered_count}</td>
-            <td><button class="btn small secondary" onclick="location.hash='#/coach/member/${u.id}'">View answers</button></td>
+            <td style="white-space:nowrap">
+              <button class="btn small secondary" onclick="location.hash='#/coach/member/${u.id}'">View answers</button>
+              <button class="btn small danger" data-del-user="${u.id}" data-del-name="${esc(u.name)}">Remove</button>
+            </td>
           </tr>`).join('')}
       </tbody></table>` : '<p class="muted">No members yet. Share your link and they will appear here when they sign up.</p>'}
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">Trainers</h3>
+      <table class="tbl"><tbody>
+        ${t.trainers.map(x => `
+          <tr><td><b>${esc(x.name)}</b><br><span class="hint">${esc(x.email)}</span></td>
+          <td style="text-align:right">${x.id === t.self_id
+            ? '<span class="hint">you</span>'
+            : `<button class="btn small danger" data-del-trainer="${x.id}" data-del-name="${esc(x.name)}">Remove</button>`}</td></tr>`).join('')}
+      </tbody></table>
     </div>`;
   document.getElementById('logoutBtn').onclick = doLogout;
+  const wireRemove = (sel) => view.querySelectorAll(sel).forEach(b => b.onclick = async () => {
+    if (!confirm(`Remove ${b.dataset.delName}? Their account and answers will be permanently deleted.`)) return;
+    try {
+      const id = b.dataset.delUser || b.dataset.delTrainer;
+      await DEL('/api/coach/users/' + id);
+      vCoach();
+    } catch (e) { alert(e.message); }
+  });
+  wireRemove('[data-del-user]');
+  wireRemove('[data-del-trainer]');
 }
 
 async function vCoachMember(id) {

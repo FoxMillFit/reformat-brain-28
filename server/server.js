@@ -27,10 +27,9 @@ app.use(session({
 
 // ---------- helpers ----------
 const DAY = 86400;
+// All lessons are open to everyone from day one — members work at their own pace.
 function unlockedDay(user) {
-  if (user.role === 'coach') return Number.MAX_SAFE_INTEGER;
-  const elapsed = Math.floor(Date.now() / 1000) - user.created_at;
-  return Math.max(1, 1 + Math.floor(elapsed / DAY));
+  return Number.MAX_SAFE_INTEGER;
 }
 function requireAuth(req, res, next) {
   if (!req.session.userId) return res.status(401).json({ error: 'Not signed in' });
@@ -177,6 +176,12 @@ app.delete('/api/coach/users/:id', requireCoach, (req, res) => {
   const r = db.prepare('DELETE FROM users WHERE id = ?').run(req.params.id);
   if (!r.changes) return res.status(404).json({ error: 'User not found' });
   res.json({ ok: true });
+});
+
+app.get('/api/coach/trainers', requireCoach, (req, res) => {
+  const trainers = db.prepare(
+    "SELECT id, name, email, created_at FROM users WHERE role = 'coach' ORDER BY created_at").all();
+  res.json({ trainers, self_id: req.user.id });
 });
 
 app.get('/api/coach/users', requireCoach, (req, res) => {
