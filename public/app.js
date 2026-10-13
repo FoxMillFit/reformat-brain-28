@@ -215,7 +215,7 @@ async function vLesson(day) {
 
   view.innerHTML = `
     <div class="card lesson-head">
-      <div class="kicker">Day ${L.day} ${L.code ? '· ' + esc(L.code) : ''} ${L.chapter ? '· Chapter ' + L.chapter : ''}</div>
+      <div class="kicker">Day ${L.day} ${L.code ? '· ' + esc(L.code) : ''} ${(L.chapter === 0 || L.chapter) ? '· Chapter ' + L.chapter : ''}</div>
       <h1>${esc(L.title)}</h1>
       ${isCoach ? '<div class="hint">Trainer preview — members unlock this on day ' + L.day + '.</div>' : ''}
     </div>
@@ -392,7 +392,7 @@ async function vCoachLessons() {
           <button class="btn secondary small" onclick="location.hash='#/coach/cohorts'">Cohorts</button>
         </div>
       </div>
-      <p class="hint">New lessons are added at the end (Day ${d.lessons.length + 1}). Members unlock one day at a time from signup.</p>
+      <p class="hint">Lessons are ordered by day number. When adding, set the day explicitly or leave it blank to append at the end.</p>
     </div>
     <div class="card">
       <table class="tbl"><thead><tr><th>Day</th><th>Lesson</th><th>Take Action items</th><th></th></tr></thead>
@@ -421,6 +421,7 @@ async function vLessonEdit(id) {
   }
   editorState = {
     id: id,
+    day: lesson ? lesson.day : null,
     title: lesson ? lesson.title : '',
     chapter: lesson ? lesson.chapter : '',
     lesson_num: lesson ? lesson.lesson_num : '',
@@ -449,6 +450,8 @@ function renderEditor() {
         <div class="field" style="flex:1"><label>Chapter</label><input id="f_chapter" value="${esc(e.chapter)}"></div>
         <div class="field" style="flex:1"><label>Lesson #</label><input id="f_lessonnum" value="${esc(e.lesson_num)}"></div>
         <div class="field" style="flex:1"><label>Code (e.g. Ch 1-1)</label><input id="f_code" value="${esc(e.code)}"></div>
+        ${e.id ? `<div class="field" style="flex:1"><label>Day</label><div style="padding:8px 0"><b>${e.day}</b></div></div>`
+               : `<div class="field" style="flex:1"><label>Day (blank = at the end)</label><input id="f_day" type="number" min="0" step="1" placeholder="auto"></div>`}
       </div>
       <div class="field"><label>Lesson text</label>
         <textarea id="f_body" style="min-height:220px">${esc(e.bodyMarkup)}</textarea>
@@ -536,6 +539,7 @@ function renderEditor() {
   document.getElementById('saveLesson').onclick = async () => {
     note('Saving…');
     try {
+      const dayEl = document.getElementById('f_day');
       const payload = {
         title: document.getElementById('f_title').value,
         chapter: document.getElementById('f_chapter').value,
@@ -543,6 +547,7 @@ function renderEditor() {
         code: document.getElementById('f_code').value,
         body: markupToBlocks(document.getElementById('f_body').value),
       };
+      if (dayEl && dayEl.value !== '') payload.day = Number(dayEl.value);
       let lessonId = e.id;
       if (!lessonId) {
         const r = await POST('/api/coach/lessons', payload);

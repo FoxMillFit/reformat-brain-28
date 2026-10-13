@@ -352,14 +352,22 @@ function fullLessons() {
 app.get('/api/coach/lessons', requireCoach, (req, res) => res.json({ lessons: fullLessons() }));
 
 app.post('/api/coach/lessons', requireCoach, (req, res) => {
-  const { title, chapter, lesson_num, code, body } = req.body || {};
+  const { title, chapter, lesson_num, code, body, day } = req.body || {};
   if (!title || !String(title).trim()) return res.status(400).json({ error: 'Title is required' });
   const maxDay = db.prepare('SELECT COALESCE(MAX(day),0) AS m FROM lessons').get().m;
+  let newDay = maxDay + 1;
+  if (day !== undefined && day !== null && day !== '') {
+    newDay = Number(day);
+    if (!Number.isInteger(newDay) || newDay < 0)
+      return res.status(400).json({ error: 'Day must be a non-negative whole number' });
+    if (db.prepare('SELECT id FROM lessons WHERE day = ?').get(newDay))
+      return res.status(400).json({ error: 'Day ' + newDay + ' is already taken' });
+  }
   const r = db.prepare(
     'INSERT INTO lessons (day, chapter, lesson_num, code, title, body, sort_order) VALUES (?,?,?,?,?,?,?)'
-  ).run(maxDay + 1, Number(chapter) || 0, Number(lesson_num) || 0,
-    String(code || ''), String(title).trim(), JSON.stringify(body || []), maxDay + 1);
-  res.json({ id: r.lastInsertRowid, day: maxDay + 1 });
+  ).run(newDay, Number(chapter) || 0, Number(lesson_num) || 0,
+    String(code || ''), String(title).trim(), JSON.stringify(body || []), newDay);
+  res.json({ id: r.lastInsertRowid, day: newDay });
 });
 
 app.put('/api/coach/lessons/:id', requireCoach, (req, res) => {
