@@ -183,7 +183,7 @@ async function vDashboard() {
           <div class="muted">${isCoach
             ? 'Trainer view — every lesson is open. Click any day to preview it.'
             : (nextUp ? `Today's work: <b>Day ${nextUp.day}</b> — ${esc(nextUp.title)}`
-                      : 'You finished all 28 days. Incredible work.')}</div>
+                      : 'You finished all the lessons. Incredible work.')}</div>
         </div>
       </div>
       ${!isCoach && nextUp ? `<div class="mt"><button class="btn" onclick="location.hash='#/lesson/${nextUp.day}'">Continue: Day ${nextUp.day}</button></div>` : ''}
@@ -250,7 +250,7 @@ async function vLesson(day) {
       </div>
     </div>`}
     <div class="lesson-nav">
-      <button class="btn secondary" id="prevBtn" ${prevDay < 1 ? 'disabled' : ''}>← Day ${prevDay}</button>
+      <button class="btn secondary" id="prevBtn" ${prevDay < 0 ? 'disabled' : ''}>← Day ${prevDay}</button>
       <button class="btn secondary" onclick="location.hash='#/'">All days</button>
       <button class="btn secondary" id="nextBtn">Day ${nextDay} →</button>
     </div>`;
@@ -279,7 +279,7 @@ async function vLesson(day) {
       vLesson(day);
     } catch (e) { alert(e.message); doneBox.checked = !doneBox.checked; }
   };
-  document.getElementById('prevBtn').onclick = () => { if (prevDay >= 1) location.hash = '#/lesson/' + prevDay; };
+  document.getElementById('prevBtn').onclick = () => { if (prevDay >= 0) location.hash = '#/lesson/' + prevDay; };
   document.getElementById('nextBtn').onclick = async () => {
     try { await GET('/api/lessons/' + nextDay); location.hash = '#/lesson/' + nextDay; }
     catch (e) { alert(e.message); }
